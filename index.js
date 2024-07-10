@@ -59,5 +59,6 @@ TEM A MANEIRA DE INICIAR O REACT DO ZERO CRIANDO ARQUIVO POR ARQUIVO, MAS VAMOS 
  ELE já prepara nosso projeto para comerçamos a criar nossa aplicação!
 o vite pode ser iniciado pelo npm/yarn/pnpm/bun
 vamos utilizar pelo yarn aqui ...
-  
+  DEPOIS DE CRIAIDO A PASTA DE CRIAÇÃO NO GITHUB 
+
  
